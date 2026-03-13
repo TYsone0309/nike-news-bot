@@ -109,3 +109,5 @@ def run_once():
 
 if __name__ == "__main__":
     run_once()
+
+with open("index.html", "w", encoding="utf-8") as f:
